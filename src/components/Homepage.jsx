@@ -9,7 +9,7 @@ function Homepage(props) {
     <div>
       <Header/>
       <CreatePost />
-      {/* <Newsfeed /> */}
+      <Newsfeed /> 
       <SideBar />
     </div>
   );
